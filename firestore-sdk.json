@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "makemoney-58f3c",
+  "private_key_id": "f513cfd2b276b4811342498c29d4f7d6fb0b0044",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5r7hugZhyFP7N\npQcs7ehVVoOkcGI+Q87Sd5dYnao3ZPzMPZ5n6S0Rt1O2rn+UyqEY7YOWcvK4LdCS\nKmDAjc/4gES5qPZksq5by0xpVjYYvzi2hlrsGTxaaVgkthB4fCSGDjNAewZSZOJK\nVTDKyyFFCUGjB5LWTJQnW4TFHGjVBe7rfstzQFKGGBqD5bU10q8AAnIXrCPk3u9X\nLGTefqgVt2B8pYlSF1W00u+NfuwCMXuzXoK4ybhjSJaJDVRDXjoafl76Oc9u07VH\nqOz95t0c6W8gw46sTs9yuhvpCbAeAElMDJJ+/i57UBVywHncWaNNSwDTzgnFShzT\nKuzZM3tvAgMBAAECggEANmUuG502SdExtY9vEy/cfEdcSAsuFHxrtYcYHHsPdqvM\nTI6OfXU24TY5vU3QDQfw+mr1vdiNlvvA2li0wCOq9Wqp91NyXpxjbHuZNlBth4FY\n/UtNjlV0My4iBpsZJxqC3oyBYhXIC9IG4myjXvzzkZQ9GKOq1cFYM1Fhixaf9SsH\n5+l8ABqiGBnn2Bf1qy5psL4JEB8yeVz6ksO2KOHIY28Qd0+qQlPoSAJVf8tLCdhD\ng9i+z0oB06gf4t5vkgNHE/x5b3I0tMje2c8a5Kuqsn67voD8KAXUJ/JpVH5uHYdR\n5mnw8ImRY2uBUWGK6oBKTyMeyESZeLUlkR/sXIj7gQKBgQDxGxc+UagnDtHw5qom\nXsEbuxzREeXNGRb4mVkCdy0qwvMRbUfjzO0MZbTm1Jb0qi+GGzx5rO1zUBWVg18b\nb/SI9bxfMqg3jZh8lD/bdR57bRo7k+KuMNKBnY0fNZAtkQasjgRuRAceszp/5Adl\nAL+QIY4RokhBf94bjsCKdUMqgQKBgQDFKDZ7Ycp9t0QHn/gED4uZj5YjgrpL/Nos\nOqbUHi4W/8SEUACgAaqAaGXThDRryoGC3SQ7wanq7P80vw6ybenjLxkRJg3hhpOZ\nlE7/QYDHGxlDkzdC8XtNM8upmIkmVKh+WaOwX/l7mn7ZaTcZxxIiKpQxNqNNKgSn\nOSeh9LZN7wKBgQDQuzRfNlBOKA1m8jsB5uxldpMXCNiavArgA9pEQSqwJ4BJaQNg\n2sup/O8lG4zomeF0x2WOrUAQoZdeDhKrbTwVyjBfdjqdhY8q4yl5c6aFEkowo/IN\n/aRwpBZFm5iLak+N2ZFKaMiFMoMFr0MblQ9C11noOEc3tVxzHR3hgG06gQKBgFVa\n/INcKgNVVWGLsx9m74Qy8sg675a4SGg/mDxbOI8CejziOfML5ZokGHmDUgKcsIdM\nYERyqrKnmjFmyeEbztdpa4vOEtJhpgMmfzDpVexdYgmscY9M5pnc475v6Gis3Cmf\ne0t/sY3+rA5KC+3gDoy2LGRGCFr+5vbSusLWJBsHAoGBAOVsAEO6poi1+BcBvuaF\ntZYr1G9BZ8vVcaCR8R8Q2a25pfF7ZtgcS6w0JOyeqcixVE5zv2tMODzFfAj5hw97\nC5Pnx4NdO9MnbRMLGHqMPMy+0aNBphI+l5/C0AGhF51+IeJqNTo+eZyAxSqPgCmN\nDPlMtdOBR/zTdYPBJe5kPy8P\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-14r1a@makemoney-58f3c.iam.gserviceaccount.com",
+  "client_id": "105870480031235144901",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-14r1a%40makemoney-58f3c.iam.gserviceaccount.com"
+}
